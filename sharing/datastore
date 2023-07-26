@@ -1,0 +1,43 @@
+//Hash map dictionary
+map[KeyType]ValueType
+
+var total map[string]int
+DSSignkey;
+DSVerifyKey;
+
+
+keyShareBetweenUsers
+userPublicKey(string username, string publicKey) {
+    //Symmetric key Encryption
+    if(err!= nil) {
+        return Error
+
+    }
+    //Deploy Signature
+    if(err!= null) {
+        new publicKey();
+
+KeyGen.newsignature {
+//new signature
+
+
+    }
+}
+
+func userAuthentication(tz string) int {
+   if user
+   {
+   //add on token
+   user + token
+   }
+
+  }
+
+
+func RSA(tz string) int {
+    if seconds, ok := timeZone[tz]; ok {
+        return ENCRYPTION
+    }
+    log.Println("Encryption key", tz)
+    return 0
+}

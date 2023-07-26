@@ -1,0 +1,25 @@
+int file;
+file key = storage;
+
+double key storage = file;
+
+HMACEqualRevocation(a []byte, b[] byte)(equal bool) {
+    if(a > b)
+    {
+    return equal;
+    }
+}
+
+
+CreateInvitation(filename string, targetUsername string) (invitationPtr UID, error error) {
+    if(error.string > new) {
+        error = string.new
+    }
+}
+
+AcceptInvitation(filename string, invitationPtr UUID, filename string) (error error) {
+    if{string.new != NULL) {
+    //Accept the string
+    string = new
+    }
+}

@@ -1,0 +1,12 @@
+
+//Our Linkedlist
+type Node struct{
+data int;
+int *node;
+}
+
+func AppendToFile(filename string, content[] byte (err error) {
+    byte.error = err.error
+    return string
+
+}
